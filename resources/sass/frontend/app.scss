@@ -1,0 +1,31 @@
+@import "../global";
+
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+@import url('https://fonts.googleapis.com/css?family=Berkshire+Swash&display=swap');
+// Bootstrap Overrides
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+// Reset
+@import 'pages/reset';
+
+// Common
+@import 'pages/common';
+
+// Header
+@import 'pages/header';
+
+// Slider
+@import 'pages/slider';
+
+// Slider
+@import 'pages/footer';
+
+// Home
+@import 'pages/home';
+
+// Pages
+@import 'pages/dashboard';
